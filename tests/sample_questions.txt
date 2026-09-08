@@ -1,0 +1,14 @@
+Sample Questions for Evaluation:
+
+1. What is the Transformer architecture and how does the self-attention mechanism work according to Vaswani et al.?
+2. What are the key differences between Bag of Words (BoW) and Word Embeddings?
+3. How is the Silhouette Score used in clustering?
+4. What is the Levenshtein Distance and where is it typically used?
+5. How does DistilBERT compare to the original BERT model in terms of size and speed?
+6. Can you summarize the concept of Retrieval Augmented Generation (RAG)?
+7. What is Latent Dirichlet Allocation (LDA) based on Blei et al.?
+8. Explain the Continuous Bag-of-Words Model (CBOW) vs Skip-gram according to Mikolov's paper.
+9. How is TF-IDF calculated?
+10. What does the Turing Test involve based on A.M. Turing's 1950 paper?
+11. What is the Louvain Method and how is it used in social network analysis?
+12. How do N-grams and Recurrent Neural Networks (RNNs) relate to Language Modelling?
